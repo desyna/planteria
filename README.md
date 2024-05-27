@@ -17,5 +17,5 @@ Baca [panduan berkontribusi](CONTRIBUTING.md) untuk mengetahui lebih lanjut meng
 
 ## Kontak
 
-- [Muhammad Rafli](mailto:rafli.work@gmail.com)
-- [Desy Nur Azizah](mailto:123210083@gmail.com)
+- [Vincentius Batista R.B](mailto:123210179@student.upnyk.ac.id)
+- [Desy Nur Azizah](mailto:desy15111@gmail.com)
